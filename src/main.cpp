@@ -47,11 +47,11 @@ extern "C" {
 */
 
 // назначаем GPIO контакты для устройств
-#define PIN_EXT_OUT1 2                              // назначение выводов выхода на внешний разъем №1
-#define PIN_EXT_OUT2 4                              // -..- №2
-#define PIN_LED_PRESENS 25                          // выход LED индикации присутствия (2 - PRES)
-#define PIN_LED_MOTION 27                           // выход LED индикации движения (15 - MOVE)
-#define PIN_LED_IND 26                              // выход LED общей индикации (4 - LINK)
+#define PIN_EXT_OUT1 25                             // назначение выводов выхода на внешний разъем №1
+#define PIN_EXT_OUT2 26                             // -..- №2
+#define PIN_LED_PRESENS 2                           // выход LED индикации присутствия (2 - PRES)
+#define PIN_LED_MOTION 15                           // выход LED индикации движения (15 - MOVE)
+#define PIN_LED_IND 4                               // выход LED общей индикации (4 - LINK)
 #define PIN_SENSOR_IN 5                             // прямой вход c сенсора - наличие движения/присутсвия
 
 // константа определяющая промежуток времени между событиями публикации статуса в MQTT

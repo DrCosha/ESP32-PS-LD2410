@@ -28,4 +28,5 @@ __{"alert":"ON","moving":"ON","moving_distance":44,"moving_energy":100,"presence
 __{"alert":"OFF","moving":"OFF","moving_distance":0,"moving_energy":0,"presence":"OFF","presence_distance":0,"presence_energy":0}__
 
 Общая принципиальная схема модуля представлена ниже.
-![Schematic_ESP32-PS-HLK-LD2410 rev1_2023-11-01](https://github.com/DrCosha/ESP32-PS-LD2410/assets/80087552/dabf6859-96bf-4ace-ae94-014e5bc91430)
+
+![Schematic_ESP32-PS-HLK-LD2410 rev1_2023-11-01](https://github.com/DrCosha/ESP32-PS-LD2410/assets/80087552/bc56a9ed-4f1f-4886-a324-9e1ee202fa6d)
